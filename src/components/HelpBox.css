@@ -14,3 +14,10 @@
   color: #97a2a2;
   font-size: 1rem;
 }
+
+.help-box .help-box-content {
+  padding: 1rem;
+  border-radius: 4px;
+  margin: 1;
+  flex: 1;
+}
